@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chin-Maya
 - 👀 I’m interested in Learning coding and making stuff
 - 🌱 I’m currently learning App Development, Web Development, Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Frontend Web Development
+- 📫 How to reach me Twitter- https://twitter.com/MayaChin__
 
 <!---
 Chin-Maya/Chin-Maya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
