@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chin-Maya
 - 👀 I’m interested in Learning coding and making stuff
-- 🌱 I’m currently learning App Development, Web Development, Artificial Intelligence
-- 💞️ I’m looking to collaborate on Frontend Web Development
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate in WebDev
 - 📫 How to reach me Twitter- https://twitter.com/ChinCodeArt
 - 🔗 My website - https://chin-maya.github.io/Chin/
 
