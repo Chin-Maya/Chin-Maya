@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chin-Maya
 - 👀 I’m interested in Learning and creating new things
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI (just started)
 - 💞️ I’m looking to collaborate in exciting projects
 - 📫 How to reach me Twitter- https://twitter.com/ChinCodeArt
 - 🔗 My website - https://chin-maya.github.io/Chin/
