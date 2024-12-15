@@ -68,8 +68,8 @@ You will see in future -->
 
 I'm always open to collaborating on cool projects, sharing knowledge, and learning new things. Feel free to reach out to me!
 
-- [LinkedIn](https://www.linkedin.com/in/[your-linkedin-profile])
-- [Twitter](https://twitter.com/[your-twitter-handle])
+- [LinkedIn](https://www.linkedin.com/in/chin-maya])
+- [Twitter](https://twitter.com/ChinCodeArt])
 <!-- - [Personal Blog](https://Chin-Maya.com) -->
 
 ---
