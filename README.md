@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 # 🌟 Hello, I'm Chinmaya! 🌟
 
 Welcome to my GitHub! I'm a passionate developer who loves to build meaningful and impactful projects. Here, you'll find my open-source contributions, personal projects, and the code behind some of my coolest work.
+My portfolio: https://chin-maya.github.io/Chinmaya-Bhargava/
 
 ---
 
