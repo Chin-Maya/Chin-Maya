@@ -77,7 +77,7 @@ I'm always open to collaborating on cool projects, sharing knowledge, and learni
 
 ## 💬 Fun Facts
 
-- I’m a huge fan of art 🎨 (and a little bit of code!)
+- I’m a huge fan of art 🎨 and math!
 - I believe that collaboration > competition – let’s build something awesome together!
 
 ---
